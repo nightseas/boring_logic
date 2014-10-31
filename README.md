@@ -3,7 +3,7 @@ A 16-channel logic analyzer based on CY7C68013A MCU.
 
 All hardware files are located in 'hardware' directry, including shematic, PCB, gerber files, and BOM.
 
-R0A is a beta version, and R01 is the final release.
+R0A is an alpha version, and R01 is the final release.
 
 In 'firmware' directry there are two EEPROM firmware files support Saleae Logic 8 and USBee AX Pro software. Firmwares are found from internet and only used for study.
 
